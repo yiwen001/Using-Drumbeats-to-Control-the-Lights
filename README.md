@@ -28,3 +28,10 @@ data range is from 0-127, it would be used to change the brightness of the light
 data range is from 127-256, we use this to change the color of the lights. That is also the
 reason why we scale the output numbers in Max. As a result, the lights can change their
 color in real time with the music.
+
+
+### Contributor
+
+Yiwen
+
+Coco
