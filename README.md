@@ -29,6 +29,8 @@ data range is from 127-256, we use this to change the color of the lights. That 
 reason why we scale the output numbers in Max. As a result, the lights can change their
 color in real time with the music.
 
+### Video
+https://vimeo.com/714137737
 
 ### Contributor
 
